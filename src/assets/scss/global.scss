@@ -4,6 +4,12 @@
 }
 
 body {
-  font-family: "Montserrat" sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
 }
+
+$base-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1);
+$text-acent: #333;
+$text-second: #76787d;
+$background-accent: #fff;
+$background-second: #e0e0e0;
